@@ -50,7 +50,8 @@ class HomePage extends StatelessWidget {
             ),
           ),
         ],
-        shape: const RoundedRectangleBorder( // Set border to app bar
+        shape: const RoundedRectangleBorder(
+          // Set border to app bar
           side: BorderSide(
             color: Colors.black, // set frame color
             width: 3.0, // set frame width
