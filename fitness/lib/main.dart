@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
           // Set border to app bar
           side: BorderSide(
             color: Colors.black, // set frame color
-            width: 3.0, // set frame width
+            width: 3.5, // set frame width
           ),
           borderRadius: BorderRadius.vertical(
             bottom: Radius.circular(0),
